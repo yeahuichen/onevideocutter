@@ -1,0 +1,13 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "one_video_cutter",
+  "outputfilename": "one_video_cutter",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "yeahuichan",
+    "email": "yeahui1128@gmail.com"
+  }
+}
